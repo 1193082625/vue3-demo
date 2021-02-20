@@ -7,6 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.165",
+    "@types/mockjs": "^1.0.3",
+    "axios": "^0.21.0",
+    "lodash": "^4.17.20",
+    "vant": "^3.0.0-rc.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
@@ -19,6 +24,7 @@
     "@vue/compiler-sfc": "^3.0.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
+    "mockjs": "^1.1.0",
     "typescript": "~3.9.3"
   }
 }
